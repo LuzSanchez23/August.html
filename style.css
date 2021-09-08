@@ -90,4 +90,16 @@
     font-weight: 300;
     display: inline;
   }
- 
+  table, th, td {
+    border:1px double black;
+  }
+  .nav {
+    font-size: 20px;
+    color: blueviolet;
+  }
+  .nav2 {
+    font-size: 20px;
+    color: blueviolet;
+  }
+  main .title { 
+    margin-left: 75px; }
